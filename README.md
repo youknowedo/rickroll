@@ -1,3 +1,5 @@
+stole this from someone, somewhere. dont know tho. uploaded so i dont loose it.
+
 # Powershell Rickroll
 Rickroll your friends right from Windows Powershell with ASCII visuals and audio!
 
